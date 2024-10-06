@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **irfanekon2004@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LYmcNvdmNIIprekQwDj9Bjep_O5pbw1xPXyJWgJFQmE/edit?usp=sharing](https://docs.google.com/document/d/1LYmcNvdmNIIprekQwDj9Bjep_O5pbw1xPXyJWgJFQmE/edit?usp=sharing)
+- 📄 Know about my experiences [Resume of Irfan Mahmud](https://drive.google.com/file/d/1-8O4EQPZ5bmAu2KrBFOIx0-tMAtv7HkB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
