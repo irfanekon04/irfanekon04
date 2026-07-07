@@ -1,191 +1,93 @@
-# 👋 Hi, I'm Irfan Mahmud Ekon
+# Hi, I'm Irfan Mahmud Ekon 👋
+
+> **Software Engineer • Flutter Developer • Backend Engineering Enthusiast**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:8B5CF6,100:4338CA&text=IRFAN%20MAHMUD%20EKON&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Backend%20Learner&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6C63FF,50:8B5CF6,100:4338CA&text=IRFAN%20MAHMUD%20EKON&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Flutter+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Mobile+Applications;Competitive+Programmer;Open+Source+Contributor"/>
-</p>
-
-<p align="center">
-
-![](https://img.shields.io/badge/B.Sc-CSE-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/Northern_University_Bangladesh-2028-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/Code_in_Place-Stanford-4338CA?style=for-the-badge)
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Flutter+Developer;Backend+Engineering+Learner;Building+Production+Mobile+Apps;Competitive+Programmer"/>
 </p>
 
 <p align="center">
 
-![](https://img.shields.io/badge/Dhaka-Bangladesh-6D28D9?style=flat-square)
-[![](https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge)](https://github.com/irfanekon04)
-[![](https://img.shields.io/badge/LinkedIn-irfanekon-0077B5?style=for-the-badge)](https://linkedin.com/in/irfanekon)
-[![](https://img.shields.io/badge/Email-irfanekon2004%40gmail.com-EA4335?style=for-the-badge)](mailto:Irfanekon2004@gmail.com)
-[![](https://img.shields.io/badge/GitHub-irfanekon04-181717?style=for-the-badge)](https://github.com/irfanekon04)
-
-</p>
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=irfanekon04&style=flat-square&color=6C63FF)
-![](https://img.shields.io/github/followers/irfanekon04?style=flat-square&color=6C63FF)
-![](https://img.shields.io/github/stars/irfanekon04?affiliations=OWNER&style=flat-square&color=8B5CF6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-irfanekon.vercel.app-6C63FF?style=for-the-badge)](https://irfanekon.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-irfanekon-0077B5?style=for-the-badge)](https://linkedin.com/in/irfanekon)
+[![GitHub](https://img.shields.io/badge/GitHub-irfanekon04-181717?style=for-the-badge)](https://github.com/irfanekon04)
+[![Email](https://img.shields.io/badge/Email-Irfanekon2004@gmail.com-EA4335?style=for-the-badge)](mailto:Irfanekon2004@gmail.com)
 
 </p>
 
 ---
 
-# About
+# About Me
 
-Software Engineer with professional experience building production Flutter applications used by **70,000+ users**. Passionate about mobile engineering, backend systems, clean architecture, scalable software, and AI-powered products.
+Flutter Developer at **SM Technology**, building production mobile applications serving **70,000+ users**.
 
-I enjoy transforming ideas into reliable products through thoughtful engineering, modern software architecture, and user-focused design.
+I'm passionate about mobile engineering, clean architecture, backend development with FastAPI, and building products that solve real-world problems.
 
-### Currently Open To
+## Engineering Highlights
 
-- Software Engineering
-- Flutter Development
-- Backend Engineering
-- AI Product Development
-- Open Source Collaboration
-- Full Stack Engineering
+- Flutter Developer @ SM Technology
+- Production app serving 70,000+ users
+- Building WalletFlow
+- Building RogSheba
+- Learning FastAPI & System Design
+- Competitive Programmer
 
 ---
 
 # Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=cpp,c,python,dart,sql"/>
-
 </p>
 
-## Frontend
+### Mobile
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=flutter,firebase"/>
-
 </p>
 
-## Backend & Databases
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,supabase,firebase,postgres,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres,mysql"/>
 </p>
 
-## Cloud, DevOps & Tooling
+### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
-
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|-------------|---------|
-| AI Product Engineering | Intermediate | AI-powered application design |
-| LLM Integration | Intermediate | API integration and workflow automation |
-| Machine Learning | Beginner | Model fundamentals and experimentation |
-| Prompt Engineering | Advanced | Structured prompting and AI workflows |
-| Data Processing | Intermediate | REST APIs, JSON pipelines, backend integration |
 
 ---
 
 # Featured Projects
 
 <details>
-
 <summary><b>WalletFlow</b></summary>
 
-Comprehensive personal finance management platform built with Flutter.
+Offline-first personal finance application featuring budgeting, loan tracking, cloud sync, reports, and charts.
 
-| Category | Details |
-|----------|----------|
-| Stack | Flutter • GetX • Hive • Firebase Auth • Supabase |
-| Scale | Offline-first architecture |
-| Performance | Fast local database with cloud sync |
-| Security | Authentication + Secure Storage |
-| Impact | Personal finance management |
-| Repository | https://github.com/irfanekon04 |
-
-### Highlights
-
-- Expense & income tracking
-- Budget planning
-- Loan management
-- Financial reports
-- Interactive charts
-- Offline-first architecture
-- Cloud synchronization
+**Stack:** Flutter • GetX • Hive • Supabase • Firebase Auth
 
 </details>
 
 <details>
+<summary><b>RogSheba (In Progress)</b></summary>
 
+AI-powered Bangla healthcare assistant focused on accessible health guidance.
+
+</details>
+
+<details>
 <summary><b>MicroFlow</b></summary>
 
-Micro-finance management application focused on member and savings management.
-
-| Category | Details |
-|----------|----------|
-| Stack | Flutter • Firebase • Provider |
-| Scale | Multi-user management |
-| Performance | Optimized state management |
-| Security | Firebase Authentication |
-| Impact | Financial workflow automation |
-| Repository | https://github.com/irfanekon04 |
-
-### Highlights
-
-- Member management
-- Savings tracking
-- Loan repayment
-- Responsive UI
-- Clean Architecture
-
-</details>
-
-<details>
-
-<summary><b>minWeather</b></summary>
-
-Real-time weather application using GPS and REST APIs.
-
-| Category | Details |
-|----------|----------|
-| Stack | Flutter • REST API |
-| Scale | Mobile-first |
-| Performance | Lightweight |
-| Security | Secure API handling |
-| Impact | Live weather forecasting |
-| Repository | https://github.com/irfanekon04 |
-
-</details>
-
-<details>
-
-<summary><b>Simple Todo</b></summary>
-
-Offline task management application.
-
-| Category | Details |
-|----------|----------|
-| Stack | Flutter • Hive |
-| Scale | Personal productivity |
-| Performance | Fast local storage |
-| Security | Offline |
-| Impact | Daily task management |
-| Repository | https://github.com/irfanekon04 |
+Microfinance management application built with Flutter and Firebase.
 
 </details>
 
@@ -193,145 +95,40 @@ Offline task management application.
 
 # Experience
 
-## Flutter Developer
+## Flutter Developer — SM Technology
 
-**SM Technology**
-
-**January 2026 — Present**
-
-Production Flutter Engineer working on large-scale mobile applications.
-
-### Responsibilities
-
-- Built production features
+- Production Flutter development
 - REST API integration
-- Authentication systems
 - Clean Architecture
-- State Management
 - Performance optimization
-- Client communication
-- Cross-functional collaboration
 
-**Skills**
+## Software Implementation & Support Intern — Esteem Soft Limited
 
-`Flutter`
-`Firebase`
-`Supabase`
-`REST API`
-`Git`
-`Clean Architecture`
-
----
-
-## Software Implementation & Support Intern
-
-**Esteem Soft Limited**
-
-**July 2025 — September 2025**
-
-Worked on deployment and implementation of Hospital ERP systems.
-
-### Responsibilities
-
-- ERP deployment
+- Hospital ERP deployment
 - Data migration
 - Technical support
-- Bug reporting
-- Staff training
-- Client coordination
-
-**Skills**
-
-`ERP`
-`SQL`
-`Support`
-`Deployment`
 
 ---
 
-# Achievements
+# Competitive Programming
 
-| Recognition | Details |
-|--------------|---------|
-| Stanford Code in Place | Successfully completed |
-| National Programming Contest | Participant |
-| Flutter Developer | Production application serving 70K+ users |
-| Open Source | Active GitHub contributor |
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge)
-
-## Stanford
-
-![](https://img.shields.io/badge/Code_in_Place-Completed-8B5CF6?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge"/>
-</a>
-
-<a href="https://codeforces.com/profile/irfanekon">
-<img src="https://img.shields.io/badge/Codeforces-irfanekon-1F8ACB?style=for-the-badge"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
+| Platform | Handle | Status |
+|----------|--------|--------|
+| Codeforces | irfanekon | 🔰 Newbie • Rating **907** |
+| LeetCode | irfanekon04 | Active |
+| HackerRank | irfanekon | Active |
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanekon04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanekon04&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=irfanekon04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanekon04&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanekon04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=irfanekon04&theme=algolia&no-frame=true&row=2&column=4"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanekon04&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -339,85 +136,32 @@ Worked on deployment and implementation of Hospital ERP systems.
 # Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanekon04&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
 # Contribution Snake
 
+> After setting up the GitHub Action:
+
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/irfanekon04/irfanekon04/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Backend Engineering
-  - FastAPI
-  - System Design
-  - AI Engineering
-
-Building:
-  - WalletFlow
-  - RogSheba
-  - Backend APIs
-  - AI-powered Mobile Apps
-
-Exploring:
-  - Cloud Computing
-  - DevOps
-  - Distributed Systems
-  - Machine Learning
-
-Open To:
-  - Software Engineering Roles
-  - Flutter Development
-  - Backend Engineering
-  - AI Product Engineering
-```
 
 ---
 
 # Connect
 
-<p align="center">
-
-<a href="mailto:Irfanekon2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/irfanekon">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/irfanekon04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/irfanekon04">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge"/>
-</a>
-
-</p>
+- Portfolio: https://irfanekon.vercel.app
+- GitHub: https://github.com/irfanekon04
+- LinkedIn: https://linkedin.com/in/irfanekon
+- Email: Irfanekon2004@gmail.com
 
 ---
 
-<p align="center">
-
-> Building software that is reliable, scalable, and meaningful.
-
-</p>
+> Building software that is clean, scalable, and meaningful.
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:6C63FF,50:8B5CF6,100:4338CA"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:8B5CF6,100:4338CA"/>
 </p>
