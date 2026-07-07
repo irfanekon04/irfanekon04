@@ -80,7 +80,7 @@ I enjoy transforming ideas into reliable products through thoughtful engineering
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,fedora,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
 
 </p>
 
