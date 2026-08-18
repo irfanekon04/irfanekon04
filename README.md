@@ -1,3 +1,10 @@
+<p align="center">
+
+> Building software that is reliable, scalable, and meaningful.
+
+</p>
+
+---
 
 <p>
 
@@ -78,13 +85,5 @@
 <a href="https://irfanekon.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-> Building software that is reliable, scalable, and meaningful.
 
 </p>
