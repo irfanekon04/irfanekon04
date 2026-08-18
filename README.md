@@ -34,23 +34,6 @@
 
 ---
 
-# About
-
-Software Engineer with professional experience building production Flutter applications used by **80,000+ users**. Passionate about mobile engineering, backend systems, clean architecture, scalable software, and AI-powered products.
-
-I enjoy transforming ideas into reliable products through thoughtful engineering, modern software architecture, and user-focused design.
-
-### Currently Open To
-
-- Software Engineering
-- Flutter Development
-- Backend Engineering
-- AI Product Development
-- Open Source Collaboration
-
----
-
-# Tech Stack
 
 ## Languages
 
@@ -86,106 +69,6 @@ I enjoy transforming ideas into reliable products through thoughtful engineering
 
 ---
 
-# Featured Projects
-
-<details>
-
-<summary><b>WalletFlow</b></summary>
-
-Comprehensive personal finance management platform built with Flutter.
-
-| Category    | Details                                          |
-| ----------- | ------------------------------------------------ |
-| Stack       | Flutter • GetX • Hive • Firebase Auth • Supabase |
-| Scale       | Offline-first architecture                       |
-| Performance | Fast local database with cloud sync              |
-| Security    | Authentication + Secure Storage                  |
-| Impact      | Personal finance management                      |
-| Repository  | https://github.com/irfanekon04                   |
-
-### Highlights
-
-- Expense & income tracking
-- Budget planning
-- Loan management
-- Financial reports
-- Interactive charts
-- Offline-first architecture
-- Cloud synchronization
-
-</details>
-
-<details>
-
-<summary><b>minWeather</b></summary>
-
-Real-time weather application using GPS and REST APIs.
-
-| Category    | Details                        |
-| ----------- | ------------------------------ |
-| Stack       | Flutter • REST API             |
-| Scale       | Mobile-first                   |
-| Performance | Lightweight                    |
-| Security    | Secure API handling            |
-| Impact      | Live weather forecasting       |
-| Repository  | https://github.com/irfanekon04 |
-
-</details>
-
----
-
-# Experience
-
-## Flutter Developer
-
-**SM Technology**
-
-**January 2026 — Present**
-
-Production Flutter Engineer working on large-scale mobile applications.
-
-### Responsibilities
-
-- Built production features
-- REST API integration
-- Authentication systems
-- Clean Architecture
-- State Management
-- Performance optimization
-- Client communication
-- Cross-functional collaboration
-
-**Skills**
-
-`Flutter`
-`Firebase`
-`Supabase`
-`REST API`
-`Git`
-`Clean Architecture`
-
----
-
-# Achievements
-
-| Recognition                  | Details                                   |
-| ---------------------------- | ----------------------------------------- |
-| Stanford Code in Place       | Successfully completed                    |
-| National Programming Contest | Participant                               |
-| Flutter Developer            | Production application serving 80K+ users |
-| Open Source                  | Active GitHub contributor                 |
-
----
-
-# Certifications
-
-## Stanford
-
-![](https://img.shields.io/badge/Code_in_Place-Completed-8B5CF6?style=for-the-badge)
-
----
-
-# Coding Profiles
 
 <p align="center">
 
@@ -209,7 +92,6 @@ Production Flutter Engineer working on large-scale mobile applications.
 
 ---
 
-# GitHub Analytics
 
 <p align="center">
 
@@ -227,18 +109,6 @@ Production Flutter Engineer working on large-scale mobile applications.
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=irfanekon04&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# Contribution Activity
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanekon04&theme=tokyo-night&hide_border=true"/>
@@ -247,36 +117,11 @@ Production Flutter Engineer working on large-scale mobile applications.
 
 ---
 
-# Contribution Snake
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/irfanekon04/irfanekon04/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Backend Engineering
-  - FastAPI
-  - System Design
-  - AI Engineering
-
-Building:
-  - RogSheba
-  - Backend APIs
-  - AI-powered Mobile Apps
-
-Open To:
-  - Software Engineering Roles
-  - Flutter Development
-  - Backend Engineering
-  - AI Product Engineering
-```
 
 ---
 
