@@ -5,7 +5,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/dbea9fce-5f18-41bc-b294-827e2e142cef/thumbnail" >
+</p>
 <p>
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,dart,sql"/>
